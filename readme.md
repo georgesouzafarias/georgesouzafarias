@@ -2,7 +2,7 @@
 <h3 align="center">A DevOps Engineer from Brazil</h3>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgesouzafarias&show_icons=true&theme=dark&locale=en" alt="georgesouzafarias" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgesouzafarias&&count_private=true&show_icons=true&theme=dracula&locale=en" alt="georgesouzafarias" /></p>
 
 <br>
 - 📫 How to reach me **georgesouzafarias@gmail.com**
